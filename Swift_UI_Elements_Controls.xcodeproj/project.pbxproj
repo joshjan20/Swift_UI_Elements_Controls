@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		527E3FF42CA69FE4001813F3 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		527E3FF62CA6A278001813F3 /* UIElementsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementsVC.swift; sourceTree = "<group>"; };
+		529C336E2CA6B29900489081 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		52CFC6902CA69C970023B3EE /* Swift_UI_Elements_Controls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_UI_Elements_Controls.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52CFC6932CA69C970023B3EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52CFC6952CA69C970023B3EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 		52CFC6872CA69C970023B3EE = {
 			isa = PBXGroup;
 			children = (
+				529C336E2CA6B29900489081 /* README.md */,
 				52CFC6922CA69C970023B3EE /* Swift_UI_Elements_Controls */,
 				52CFC6912CA69C970023B3EE /* Products */,
 			);
